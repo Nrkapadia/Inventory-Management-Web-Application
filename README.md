@@ -8,28 +8,10 @@
 
 ## Installation
 
-First, you need to clone this repo:
-
-```bash
-$ git clone https://github.com/shraite7/flask-inventory-app.git
-```
 
 Then change into the `flask-inventory-app` folder:
 
-```bash
-$ cd flask-inventory-app
-```
 
-Now, we will need to create a virtual environment and install all the dependencies. We have two options available for now.
-
-Use Pipenv:
-
-```bash
-$ pipenv install
-$ pipenv shell
-```
-
-Or use pip + virtualenv:
 
 ```bash
 $ virtualenv venv
